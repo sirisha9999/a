@@ -1,0 +1,23 @@
+what is service iam ?
+71.what is policy?
+72.did you writen any coustem policy?
+73.what is mfa?
+74.why policy require in aws?
+==============================EC2==================
+75.what is ami?
+76.how to mount the volume?
+77.what is autoscalling ?
+78.what is loadbalancer?
+79.explain type of loadbalancer?
+80.differene between alb,nlb and elb?
+81.what is elastic ip address?
+82.i create one ec2 server but when i am accessing the server is not working how to
+troubleshoot?
+83.what is user data in ec2 server?
+=======================================s3 bucket==========
+84.what is s3 bucket?
+85.what perpose of we are used s3 bucket?
+86.what are the limits of buckets for one account?
+87.what is bucket policy?
+88.why s3 bucket versionig is require?
+89.what s3 lifecycle roles?
